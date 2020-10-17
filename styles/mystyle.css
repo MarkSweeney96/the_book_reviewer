@@ -1,0 +1,269 @@
+.container {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-style: regular;
+  padding: 0px;
+}
+
+.container .no-pm {
+  padding: 0px;
+  margin: 0px;
+}
+
+.container .bl-m {
+  margin-left: 18px;
+}
+
+.container .nyt .pt {
+  padding-top: -20px;
+}
+
+.container .blue {
+  background-color: lightblue;
+}
+
+.container .pink {
+  background-color: lightpink;
+}
+
+.container .green {
+  background-color: lightgreen;
+}
+
+.container .pdf-bold {
+  font-family: 'Playfair Display', serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.container .lato-bold {
+  font-family: 'Lato', serif;
+  font-weight: 700;
+}
+
+.container .lato {
+  font-family: 'Lato', serif;
+  font-weight: 400;
+}
+
+.container .title {
+  font-family: 'Playfair Display', serif;
+  font-weight: 700;
+  font-style: italic;
+  margin-bottom: 0;
+}
+
+.container .black-line {
+  height: 5px;
+  background-color: black;
+}
+
+.sub {
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+  font-style: regular;
+  margin-top: 0;
+}
+
+.container ul li {
+  font-family: 'Playfair Display', serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.container hr {
+  margin: 0px;
+  padding: 0px;
+}
+
+.container a:link, a:visited, a:active {
+  text-decoration: none;
+  color: black;
+}
+
+.container a:hover {
+  text-decoration: underline;
+  color: black;
+}
+
+.container nav li {
+  list-style-type: none;
+}
+
+.container ul {
+  text-align: center;
+  margin: 0px;
+  padding: : 0px;
+}
+
+.container li {
+  display: inline;
+  margin: 20;
+}
+
+.container nav {
+  padding-bottom: 15px;
+}
+
+.container header {
+  text-align: center;
+}
+
+.container .review_otw h1 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 700;
+  font-style: italic;
+  text-align: center;
+}
+
+.container .review_otw h2 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+  font-size: regular;
+  text-align: center;
+}
+
+.container .left {
+  font-family: 'Lato', serif;
+  font-weight: 700;
+  font-size: bold;
+  margin: 0px;
+  text-align: left;
+}
+
+.container .right {
+  font-family: 'Lato', serif;
+  font-weight: 700;
+  font-size: bold;
+  margin: 0px;
+  text-align: right;
+}
+
+.container .review_otw {
+  background-color: white;
+}
+
+.container .review_otw img {
+  height: 100%;
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.container .review_otw .pgs {
+  padding-top: 20px;
+}
+
+.container .nyt img {
+  height: 90px;
+  width: 57px;
+  padding-bottom: 5px;
+}
+
+.container .bestseller1, .container .nyt {
+  padding: 0px;
+}
+
+.bestseller1 {
+  height: 120px;
+}
+
+.container .bestseller img {
+  height: 100px;
+  width: 50px;
+}
+
+.container .num {
+  font-family: 'Lato', serif;
+  font-weight: 300;
+  font-style: italic;
+  font-size: 25px;
+  padding-left: 5px;
+}
+
+.container .section-header {
+  text-align: center;
+  margin: : 0;
+  font-family: 'Playfair Display', serif;
+  font-weight: 700;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+.container .latest-cover img {
+  height: 140px;
+  width: 89px;
+  padding-bottom: 5px;
+}
+
+.container .editors_picks img {
+  height: 140px;
+  width: 89px;
+  padding-bottom: 5px;
+}
+
+.container .ep1, .container .ep2, .container .ep3, .container .ep4, .container .ep5, .container .ep6 {
+  text-align: center;
+  padding: 0px;
+}
+
+.container .latest-cover, .container .latest-head {
+  padding-right: 0px;
+}
+
+.container .latest h4 {
+  font-size: 24px;
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+  font-style: regular;
+  padding-right: 0px;
+}
+
+.container .price {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.container .price mark {
+  background-color: #ecf0f1;
+  padding: 5px;
+  padding-right: 1px;
+}
+
+.container footer {
+  text-align: center;
+  margin: : 0;
+}
+
+.container footer h5 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+  font-style: regular;
+  padding: 0px;
+  width: 100%;
+  text-align: center;
+}
+
+.container footer h6 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  font-style: italic;
+  font-size: 20px;
+  padding: 0px;
+  width: 100%;
+  text-align: center;
+}
+
+.container footer .social {
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.container footer img {
+  height: 50px;
+  width 50px;
+}
+
+.container .username {
+  letter-spacing: 1px;
+}
