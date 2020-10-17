@@ -1,6 +1,6 @@
 # The Book Reviewer (Book Review Site)
 This repository contains a book review site I designed and developed in my second year of college.
-It uses HTML, CSS, JavaScript, PHP and an SQL database. All the book reviews and their relevant data (author, publisher, genre etc) are live text directly from the SQL database. The images are embedded from image links stored in the database.
+It uses HTML, CSS, PHP and an SQL database. All the book reviews and their relevant data (author, publisher, genre etc) are live text directly from the SQL database. The images are embedded from image links stored in the database.
 
 To install this project you will need to:
 1. Install a local Apache Web Server and a MySQL database server. <a href="https://www.apachefriends.org/index.html">XAMPP</a> is a good piece of software that installs both.   
