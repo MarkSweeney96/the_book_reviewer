@@ -5,7 +5,7 @@ It uses HTML, CSS, PHP and an SQL database. All the book reviews and their relev
 To install this project you will need to:
 1. Install a local Apache Web Server and a MySQL database server. <a href="https://www.apachefriends.org/index.html">XAMPP</a> is a good piece of software that installs both.   
 2. Create a new database called 'book_reviewer' and import the <i>book_reviewer.sql</i> file located in this repository.
-3. <b>NB:</b> Make sure the classes/DB.php file has the correct information for your local web server and database.
+3. <b>NB:</b> Make sure the classes/Connection.php file has the correct information for your local web server and database.
 
 I got an A grade for this module (Advanced Web Design and Development).
 
