@@ -28,7 +28,7 @@ You can browse through all of my code above and see some screenshots of the proj
 <img src="https://raw.githubusercontent.com/MarkSweeney96/the_book_reviewer/master/screenshots/edit-author.png" alt="updated-news-story" height="450"><br>
 
 <b>Database Structure (Entity Relationship Diagram)</b><br>
-<img src="https://raw.githubusercontent.com/MarkSweeney96/the_book_reviewer/master/screenshots/erd.png" alt="empty-form" height="450">
+<img src="https://raw.githubusercontent.com/MarkSweeney96/the_book_reviewer/master/screenshots/erd1.png" alt="empty-form" height="450">
 <br>
 
 <b>Sources</b><br>
