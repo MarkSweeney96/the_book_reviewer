@@ -16,19 +16,19 @@ You can browse through all of my code above and see some screenshots of the proj
 <br>
 <img src="https://raw.githubusercontent.com/MarkSweeney96/the_book_reviewer/master/screenshots/sc2.png" alt="screenshot2" height="450">
 <br>
-<img src="https://raw.githubusercontent.com/MarkSweeney96/the_book_reviewer/master/screenshots/review.png" alt="screenshot3" height="450"><br>
+<img src="https://raw.githubusercontent.com/MarkSweeney96/the_book_reviewer/master/screenshots/review.png" alt="review" height="450"><br>
 
 <b>Database Admin Tools</b><br>
-<img src="https://raw.githubusercontent.com/MarkSweeney96/the_book_reviewer/master/screenshots/add-book.png" alt="empty-form" height="450">
+<img src="https://raw.githubusercontent.com/MarkSweeney96/the_book_reviewer/master/screenshots/add-book.png" alt="add book" height="450">
 <br>
-<img src="https://raw.githubusercontent.com/MarkSweeney96/the_book_reviewer/master/screenshots/admin-book-details.png" alt="form-with-data" height="450">
+<img src="https://raw.githubusercontent.com/MarkSweeney96/the_book_reviewer/master/screenshots/admin-book-details.png" alt="book details" height="450">
 <br>
-<img src="https://raw.githubusercontent.com/MarkSweeney96/the_book_reviewer/master/screenshots/admin-author-view.png" alt="database-injection" height="450">
+<img src="https://raw.githubusercontent.com/MarkSweeney96/the_book_reviewer/master/screenshots/admin-author-view.png" alt="author view" height="450">
 <br>
-<img src="https://raw.githubusercontent.com/MarkSweeney96/the_book_reviewer/master/screenshots/edit-author.png" alt="updated-news-story" height="450"><br>
+<img src="https://raw.githubusercontent.com/MarkSweeney96/the_book_reviewer/master/screenshots/edit-author.png" alt="edit author" height="450"><br>
 
 <b>Database Structure (Entity Relationship Diagram)</b><br>
-<img src="https://raw.githubusercontent.com/MarkSweeney96/the_book_reviewer/master/screenshots/erd1.png" alt="empty-form" height="450">
+<img src="https://raw.githubusercontent.com/MarkSweeney96/the_book_reviewer/master/screenshots/erd1.png" alt="erd" height="450">
 <br>
 
 <b>Sources</b><br>
