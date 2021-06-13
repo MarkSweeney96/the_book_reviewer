@@ -1,35 +1,17 @@
-# The Book Reviewer (Book Review Site)
-This repository contains a book review site I designed and developed in my second year of college.
-It uses HTML, CSS, PHP and an SQL database. All the book reviews and their relevant data (author, publisher, genre etc) are live text directly from the SQL database. The images are embedded from image links stored in the database.
+# The Book Reviewer
 
+The Book Reviewer is a book review site I designed and developed in my second year of college. This project uses HTML, CSS, PHP and a MySQL database. It is a book review site with a large focus on overall design, layout and typography. The home page shows the ‘review of the week’, bestsellers, latest and more. Users can then view individual book reviews in an article format. The admin tools then allow an easy way for administrators to create, edit, update and delete book reviews.
+
+## Installation
 To install this project you will need to:
-1. Install a local Apache Web Server and a MySQL database server. <a href="https://www.apachefriends.org/index.html">XAMPP</a> is a good piece of software that installs both.   
-2. Create a new database called 'book_reviewer' and import the <i>book_reviewer.sql</i> file located in this repository.
-3. <b>NB:</b> Make sure the classes/Connection.php file has the correct information for your local web server and database.
+1. Install a local Apache Web Server and a MySQL database server. [XAMPP](https://www.apachefriends.org/index.html) is a good piece of software that installs both.   
+2. Create a new database called 'book_reviewer' and import the __book_reviewer.sql__ file located in this repository.
+3. __NB__: Make sure the __classes/Connection.php__ file has the correct information for your local web server and database.
 
-I got an A grade for this module (Advanced Web Design and Development).
+# Project Showcase
+To view a showcase of this project, click the link below. This includes a detailed description of the project along with screenshots of the visual design.
 
-You can browse through all of my code above and see some screenshots of the project in action below:
+## [https://www.marksweeney.io/portfolio-of-work/the-book-reviewer](https://www.marksweeney.io/portfolio-of-work/the-book-reviewer)
 
-<b>Overall Design</b><br>
-<img src="https://raw.githubusercontent.com/MarkSweeney96/the_book_reviewer/master/screenshots/sc1.png" alt="screenshot1" height="450">
-<br>
-<img src="https://raw.githubusercontent.com/MarkSweeney96/the_book_reviewer/master/screenshots/sc2.png" alt="screenshot2" height="450">
-<br>
-<img src="https://raw.githubusercontent.com/MarkSweeney96/the_book_reviewer/master/screenshots/review.png" alt="review" height="450"><br>
-
-<b>Database Admin Tools</b><br>
-<img src="https://raw.githubusercontent.com/MarkSweeney96/the_book_reviewer/master/screenshots/add-book.png" alt="add book" height="450">
-<br>
-<img src="https://raw.githubusercontent.com/MarkSweeney96/the_book_reviewer/master/screenshots/admin-book-details.png" alt="book details" height="450">
-<br>
-<img src="https://raw.githubusercontent.com/MarkSweeney96/the_book_reviewer/master/screenshots/admin-author-view.png" alt="author view" height="450">
-<br>
-<img src="https://raw.githubusercontent.com/MarkSweeney96/the_book_reviewer/master/screenshots/edit-author.png" alt="edit author" height="450"><br>
-
-<b>Database Structure (Entity Relationship Diagram)</b><br>
-<img src="https://raw.githubusercontent.com/MarkSweeney96/the_book_reviewer/master/screenshots/erd1.png" alt="erd" height="450">
-<br>
-
-<b>Sources</b><br>
-All book reviews and images were taken from various sources on the internet. The links to the images used are in the database under cover_img, pub_logo and author_img.  
+### Sources
+All book reviews and images were taken from various sources on the internet. The links to the images used are in the database sql file (book_reviewer.sql) under cover_img, pub_logo and author_img.  
