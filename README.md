@@ -14,4 +14,7 @@ To view a showcase of this project, click the link below. This includes a detail
 ## [https://www.marksweeney.io/portfolio-of-work/the-book-reviewer](https://www.marksweeney.io/portfolio-of-work/the-book-reviewer)
 
 ### Sources
-All book reviews and images were taken from various sources on the internet. The links to the images used are in the database sql file (book_reviewer.sql) under cover_img, pub_logo and author_img.  
+All book reviews and images were taken from various sources on the internet. The links to the images used are in the database sql file (book_reviewer.sql) under cover_img, pub_logo and author_img.
+
+### Note
+The social media username used in this project (@thebookreviewer) is not linked to this project or its developer. It was simply used for demonstration purposes.
